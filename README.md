@@ -99,8 +99,6 @@ Enabling SSH on Ubuntu
 ```
 sudo apt install openssh-server
 ```
-##
-<img src=images/11.PNG  alt="alt text" width="600" height="350">
 
 ##
 ##
@@ -118,6 +116,6 @@ Testing SSH connection from Windows 10:
 ssh morti@192.168.8.194
 ```
 ##
-<img src=images/13.PNG  alt="alt text" width="600" height="350">
+<img src=images/13.PNG  alt="alt text" width="600" height="650">
 
 ##
