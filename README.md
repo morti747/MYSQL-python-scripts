@@ -83,6 +83,32 @@ sudo mysql
 <img src=images/8.PNG  alt="alt text" width="600" height="350">
 
 ##
+##
 
+Testing if SSH is running
+```
+sudo systemctl status ssh
+```
+##
+<img src=images/10.PNG  alt="alt text" width="600" height="350">
 
+##
+##
+Enabling SSH on Ubuntu
 
+```
+sudo apt install openssh-server
+```
+##
+<img src=images/11.PNG  alt="alt text" width="600" height="350">
+
+##
+##
+Testing again if SSH is running
+```
+sudo systemctl status ssh
+```
+##
+<img src=images/12.PNG  alt="alt text" width="600" height="350">
+
+##
