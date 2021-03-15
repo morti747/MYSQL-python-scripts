@@ -48,11 +48,11 @@ mysql --version
 sudo mysql_secure_installation
 ```
 ##
-<img src=images/5.PNG  alt="alt text" width="550" height="250">
+<img src=images/5.PNG  alt="alt text" width="450" height="250">
 
 ##
 ##
-<img src=images/6.PNG  alt="alt text" width="550" height="250">
+<img src=images/6.PNG  alt="alt text" width="450" height="200">
 
 
 
