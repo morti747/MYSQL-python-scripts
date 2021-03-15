@@ -66,7 +66,7 @@ Testing if MySQL is running
 systemctl status mysql.service
 ```
 ##
-<img src=images/9.PNG  alt="alt text" width="600" height="450">
+<img src=images/9.PNG  alt="alt text" width="600" height="300">
 
 ##
 
