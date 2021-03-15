@@ -80,7 +80,7 @@ sudo mysql
 ```
 
 ##
-<img src=images/8.PNG  alt="alt text" width="600" height="450">
+<img src=images/8.PNG  alt="alt text" width="600" height="350">
 
 ##
 
