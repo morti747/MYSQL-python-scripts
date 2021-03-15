@@ -41,10 +41,18 @@ mysql --version
 ##
 
 
+## :one: Make security configurations by running the provided security script: 
 
 
+```
+sudo mysql_secure_installation
+```
+##
+<img src=images/4.PNG  alt="alt text" width="550" height="250">
 
-
+##
+##
+<img src=images/4.PNG  alt="alt text" width="550" height="250">
 
 
 
