@@ -52,7 +52,7 @@ sudo mysql_secure_installation
 
 ##
 ##
-<img src=images/6.PNG  alt="alt text" width="450" height="200">
+<img src=images/6.PNG  alt="alt text" width="600" height="200">
 
 
 
