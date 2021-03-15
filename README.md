@@ -32,6 +32,14 @@ sudo apt-get install mysql-server
 ##
 
 
+```
+mysql --version 
+```
+##
+<img src=images/4.PNG  alt="alt text" width="550" height="250">
+
+##
+
 
 
 
