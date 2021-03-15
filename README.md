@@ -57,7 +57,7 @@ Morteza123@$
 
 ##
 ##
-<img src=images/7.PNG  alt="alt text" width="600" height="200">
+<img src=images/7.PNG  alt="alt text" width="600" height="550">
 
 ##
 
@@ -68,7 +68,7 @@ sudo mysql
 ```
 
 ##
-<img src=images/8.PNG  alt="alt text" width="600" height="200">
+<img src=images/8.PNG  alt="alt text" width="600" height="450">
 
 ##
 
