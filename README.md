@@ -23,6 +23,13 @@ sudo apt-get upgrade
 
 
 
+```
+sudo apt-get install mysql-server 
+```
+##
+<img src=images/3.PNG  alt="alt text" width="550" height="250">
+
+##
 
 
 
