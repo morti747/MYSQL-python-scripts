@@ -8,7 +8,7 @@ How to install MYSQL on Linux server and use Python scripts to manage your datab
 sudo apt-get update
 ```
 ##
-<img src=images/1.PNG  alt="alt text" width="550" height="300">
+<img src=images/1.PNG  alt="alt text" width="550" height="250">
 
 ##
 
@@ -17,7 +17,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 ##
-<img src=images/2.PNG  alt="alt text" width="550" height="300">
+<img src=images/2.PNG  alt="alt text" width="550" height="250">
 
 ##
 
