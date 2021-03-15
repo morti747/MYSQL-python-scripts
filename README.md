@@ -3,7 +3,7 @@ How to install MYSQL on Linux server and use Python scripts to manage your datab
 
 
 # :zap: How to prepare our Linux server :zap: 
-:star: . 
+:star: Step 1: Update repository index. 
 ```
 sudo apt-get update
 ```
@@ -12,7 +12,7 @@ sudo apt-get update
 
 ##
 
-
+:star: Step 1: Upgrade repository index.
 ```
 sudo apt-get upgrade
 ```
@@ -21,7 +21,7 @@ sudo apt-get upgrade
 
 ##
 
-
+:star: Step 2: Install MySQL server with apt
 
 ```
 sudo apt-get install mysql-server 
@@ -31,7 +31,7 @@ sudo apt-get install mysql-server
 
 ##
 
-
+:star: Step 3: Verify the installation (optional)
 ```
 mysql --version 
 ```
@@ -41,7 +41,7 @@ mysql --version
 ##
 
 
-## :one: Make security configurations by running the provided security script: 
+## Step 4: Make security configurations by running the provided security script: 
 
 
 ```
@@ -60,6 +60,18 @@ Morteza123@$
 <img src=images/7.PNG  alt="alt text" width="600" height="550">
 
 ##
+
+Testing if MySQL is running
+```
+systemctl status mysql.service
+```
+##
+<img src=images/9.PNG  alt="alt text" width="600" height="450">
+
+##
+
+
+
 
 Step 1: Start MySQL Shell
 
