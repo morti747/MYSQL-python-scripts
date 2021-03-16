@@ -122,6 +122,8 @@ Step 7: Start MySQL Shell
 ```
 sudo mysql
 ```
+#
+<img src=images/8.PNG  alt="alt text" width="600" height="350">
 ##
 Step 8: Create our database called MORTYMAINTENANCE:
 #
@@ -129,14 +131,8 @@ Step 8: Create our database called MORTYMAINTENANCE:
 CREATE DATABASE MORTYMAINTENANCE ;
 
 ```
-#
 ##
 <img src=images/14.PNG  alt="alt text" width="600" height="350">
-
-##
-
-##
-<img src=images/8.PNG  alt="alt text" width="600" height="350">
 
 ##
 ##
