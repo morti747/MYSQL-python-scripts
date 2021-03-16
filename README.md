@@ -122,13 +122,25 @@ Step 7: Start MySQL Shell
 ```
 sudo mysql
 ```
+##
+Step 8: Create our database called MORTYMAINTENANCE:
+#
+```
+CREATE DATABASE MORTYMAINTENANCE ;
+
+```
+#
+##
+<img src=images/14.PNG  alt="alt text" width="600" height="350">
+
+##
 
 ##
 <img src=images/8.PNG  alt="alt text" width="600" height="350">
 
 ##
 ##
-Step 8: Create our USER called morty:
+Step 9: Create our USER called morty:
 #
 ```
 CREATE USER 'morty'@'%' IDENTIFIED BY 'Morteza123@$';
@@ -147,7 +159,7 @@ flush privileges;
 
 ##
 
-Step 9: Use Python scrip to creat our database called MORTYMAINTENANCE with tables called Clients and Orders :
+Step 10: Use Python scrip to creat our database called MORTYMAINTENANCE with tables called Clients and Orders :
 
 ##
 ```
