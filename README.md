@@ -116,6 +116,7 @@ Testing SSH connection from Windows 10:
 ssh morti@192.168.8.194
 ```
 ##
-<img src=images/13.PNG  alt="alt text" width="600" height="650">
+<img src=images/13.PNG  alt="alt text" width="600" height="600">
 
 ##
+
