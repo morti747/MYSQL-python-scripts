@@ -130,6 +130,11 @@ sudo mysql
 ##
 Step 8: Create our database called MORTYMAINTENANCE and verify if it exists :
 #
+```
+CREATE DATABASE MORTYMAINTENANCE;
+
+SHOW databases ; 
+```
 #
 <img src=images/14.PNG  alt="alt text" width="600" height="350">
 
@@ -137,6 +142,18 @@ Step 8: Create our database called MORTYMAINTENANCE and verify if it exists :
 ##
 Step 9: Create our USER called moty:
 #
+```
+CREATE USER 'morty'@'%' IDENTIFIED BY 'Morteza123@$';
+```
+#
+```
+GRANT ALL ON MORTYMAINTENANCE.* TO 'morty'@'%';
+```
+#
+```
+flush privileges;
+```
+
 #
 <img src=images/15.PNG  alt="alt text" width="600" height="350">
 
