@@ -128,19 +128,7 @@ sudo mysql
 
 ##
 ##
-Step 8: Create our database called MORTYMAINTENANCE and verify if it exists :
-#
-```
-CREATE DATABASE MORTYMAINTENANCE;
-
-SHOW databases ; 
-```
-#
-<img src=images/14.PNG  alt="alt text" width="600" height="350">
-
-##
-##
-Step 9: Create our USER called moty:
+Step 8: Create our USER called morty:
 #
 ```
 CREATE USER 'morty'@'%' IDENTIFIED BY 'Morteza123@$';
@@ -159,7 +147,7 @@ flush privileges;
 
 ##
 
-Step 9: Use Python scrip to creat the tables Clients and Orders :
+Step 9: Use Python scrip to creat our database called MORTYMAINTENANCE with tables called Clients and Orders :
 
 ##
 ```
@@ -182,7 +170,7 @@ except Exception as e:
 
 try:
     command_handler = db.cursor()
-    command_handler.execute("CREATE DATABASE IF NOT EXISTS MORTIMAINTENANCE;")
+    command_handler.execute("CREATE DATABASE IF NOT EXISTS MORTYMAINTENANCE;")
     print("MORTIMAINTENANCE has been created ")
 
 except Exception as e:
