@@ -20,7 +20,7 @@ sudo apt-get upgrade
 <img src=images/2.PNG  alt="alt text" width="550" height="250">
 
 ##
-Testing if SSH is running
+:star: Step 2:Testing if SSH is running
 ```
 sudo systemctl status ssh
 ```
@@ -37,7 +37,7 @@ sudo apt install openssh-server
 
 ##
 ##
-:star: Step 2: Testing again if SSH is running
+Testing again if SSH is running
 ```
 sudo systemctl status ssh
 ```
