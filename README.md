@@ -179,7 +179,7 @@ except Exception as e:
 
 try:
     command_handler = db.cursor()
-    command_handler.execute("USE MORTIMAINTENANCE ;")
+    command_handler.execute("USE MORTYMAINTENANCE ;")
 
     command_handler.execute("CREATE TABLE IF NOT EXISTS Clients (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100), address VARCHAR(100), email VARCHAR(100))")
     print ("Table Clients has been created successfully ")
