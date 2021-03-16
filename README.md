@@ -105,11 +105,19 @@ systemctl status mysql.service
 <img src=images/9.PNG  alt="alt text" width="600" height="300">
 
 ##
+Step 7: Modify our mysqld.cnf file for remote access: 
+##
 
+```
+sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+```
+:star: Open and modify the binding address to 0.0.0.0 to be able to connect from any IP adress. 
 
+<img src=images/16.PNG  alt="alt text" width="600" height="600">
 
+##
 
-Step 6: Start MySQL Shell
+Step 7: Start MySQL Shell
 
 ```
 sudo mysql
@@ -120,6 +128,26 @@ sudo mysql
 
 ##
 ##
+Step 8: Create our database called MORTYMAINTENANCE and verify if it exists :
+#
+#
+<img src=images/14.PNG  alt="alt text" width="600" height="350">
+
+##
+##
+Step 9: Create our USER called moty:
+#
+#
+<img src=images/15.PNG  alt="alt text" width="600" height="350">
+
+##
+
+
+
+
+
+
+
 
 
 
