@@ -134,7 +134,7 @@ Step 8: Create our database called MORTYMAINTENANCE:
 CREATE DATABASE MORTYMAINTENANCE ;
 ```
 ##
-<img src=images/14.PNG  alt="alt text" width="600" height="350">
+<img src=images/14.PNG  alt="alt text" width="600" height="550">
 
 ##
 ##
