@@ -160,7 +160,7 @@ flush privileges;
 Step 10: Use Python scrip to creat our database called MORTYMAINTENANCE with tables called Clients and Orders :
 
 ##
-```
+```python
 import mysql.connector as mysql
 from mysql.connector import Error
 
