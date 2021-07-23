@@ -17,7 +17,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 ##
-<img src=images/2.PNG  alt="alt text" width="550" height="250">
+<img src=images/2.PNG  alt="alt text" width="750" height="450">
 
 ##
 :star: Step 2:Testing if SSH is running
