@@ -25,7 +25,7 @@ sudo apt-get upgrade
 sudo systemctl status ssh
 ```
 ##
-<img src=images/10.PNG  alt="alt text" width="600" height="350">
+<img src=images/10.PNG  alt="alt text" width="600" height="150">
 
 ##
 ##
