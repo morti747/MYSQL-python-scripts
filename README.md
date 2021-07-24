@@ -123,7 +123,7 @@ Step 7: Start MySQL Shell
 sudo mysql
 ```
 ##
-<img src=images/8.PNG  alt="alt text" width="600" height="350">
+<img src=images/8.PNG  alt="alt text" width="700" height="350">
 
 ##
 
